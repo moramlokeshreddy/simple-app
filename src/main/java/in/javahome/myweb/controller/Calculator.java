@@ -1,6 +1,5 @@
 package in.javahome.myweb.controller;
 /*
- * 
  */
 public class Calculator {
 	
